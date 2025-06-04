@@ -1,7 +1,7 @@
 # 📰 NEWS 뉴스
 
 ## 🌱 프로젝트 링크  
-🔗 [ 뉴스 ](https://github.com/mjaprk-2k/news)
+🔗 [ NEWS 뉴스 ](https://github.com/mjpark-2k/news.git)
 
 ---
 
@@ -76,4 +76,4 @@ npm start
 
 ## 📞 연락처
 - 📧 Email: email@email.com
-- 📒 Github: [Githubname](https://github.com/githubname)
+- 📒 Github: [ mjpark-2k ](https://github.com/githubname)
