@@ -75,5 +75,5 @@ npm start
 ---
 
 ## 📞 연락처
-- 📧 Email: email@email.com
-- 📒 Github: [ mjpark-2k ](https://github.com/githubname)
+- 📧 Email: mjpark.2k@gmail.com
+- 📒 Github: [ mjpark-2k ](https://github.com/mjpark-2k)
