@@ -1,7 +1,7 @@
 # 📰 NEWS 뉴스
 
 ## 🌱 프로젝트 링크  
-🔗 [ NEWS 뉴스 ](https://github.com/mjpark-2k/news.git)
+🔗 [ NEWS 뉴스 ](https://news-mj2k.vercel.app)
 
 ---
 
@@ -45,7 +45,7 @@ cd news
 npm install
 
 # 개발 서버 실행
-npm start
+npm run serve
 ```
 
 ---
